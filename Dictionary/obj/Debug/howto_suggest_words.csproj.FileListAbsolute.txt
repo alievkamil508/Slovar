@@ -1,0 +1,9 @@
+C:\Users\user\Documents\c# test\howto_suggest_words\bin\Debug\Words.txt
+C:\Users\user\Documents\c# test\howto_suggest_words\bin\Debug\howto_suggest_words.exe
+C:\Users\user\Documents\c# test\howto_suggest_words\bin\Debug\howto_suggest_words.pdb
+C:\Users\user\Documents\c# test\howto_suggest_words\obj\Debug\howto_suggest_words.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\howto_suggest_words\obj\Debug\howto_suggest_words.Form1.resources
+C:\Users\user\Documents\c# test\howto_suggest_words\obj\Debug\howto_suggest_words.Properties.Resources.resources
+C:\Users\user\Documents\c# test\howto_suggest_words\obj\Debug\howto_suggest_words.csproj.GenerateResource.cache
+C:\Users\user\Documents\c# test\howto_suggest_words\obj\Debug\howto_suggest_words.exe
+C:\Users\user\Documents\c# test\howto_suggest_words\obj\Debug\howto_suggest_words.pdb
